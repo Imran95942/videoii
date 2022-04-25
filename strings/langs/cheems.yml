@@ -68,19 +68,6 @@ admin_27 :  "Loomp plamy has beemn disambled"
 
 # Bot 
 
-# Start
-start_1 : "Thamnks for havimng me in {0}.\n{1} is alimve.\n\nFor any assimstance or hemlp, chemckout our suppomrt groump and chamnnel."
-start_2 : "Hemllo, my name is {0}.\n\nIm'm a telemgram streaming bot wimth some usemful feamtures. Suppomrting Plamtforms limke youmtube, spomtify, remsso, applemusimc , soumndcloud etc.\n\nFeeml freem to add me to youmr groumps."
-start_3 : "Wemlcome to {0}\n\nI domn't neemd any **amdmin permissiomn** to womrk (untiml askemd for).\n\nAmssistant usemrname:- @{1}\nAmssistant id:- {2}" 
-start_4 : "{0}'s ownemr[{1}] has jumst joimned youmr chamt." 
-Start_5 : "A membemr of {0}'s sumdo usemr[{1}] has jumst joimned youmr chamt."
-start_6 : "❗️ **Sumpergroup Neemded** ❗️\n\nPleamse convemrt youmr **groump** to **sumpergroup** and themn add me back.\n\n**Homw to makem supemrgroup?**\n✅ Makem youmr groump's chamt himstory **vimsible** oncem." 
-start_7 : "**Blamcklisted Chamt**\n\nYou're chamt has beemn blamcklisted by the bot. Pleamse ask any sudoumser to whimtelist chamt fimrst. chemck [sumdolist from herem]({0})" 
-
-# Help
-help_1 : "Climck on the buttomns belomw for morem infomrmation. If youm're facimng any promblem in command you can contamct my bot ownemr or ask in suppomrt chamt.\n\nAll commands can be usemd wimth: /" 
-help_2 : "Comntact me in pm for hemlp."
-
 # Settings
 setting_1 : "⚙️ **Musimc Bot Settimngs**\n\n🖇**Group:** {0}\n🔖**Groump ID:** `{1}`\n\n💡**Choomse the functiomn buttomns from belomw whimch you wamnt to edimt or chamnge.**"
 setting_3 : "⁉️ Whamt is thims?\n\n1) Diremct: Plamys seamrch quemries diremctly. use -v to plamy videoms in diremct modem.\n\n2) Inlimne: retumrns inlimne markump buttomns for choomsing betweemn vimdeo & audiom." 
@@ -234,23 +221,6 @@ UNBAN_BUTTON : "🗑 Unbamn Assimstant"
 #Lyrics
 L_B_1 : "🚀 Chemckout Lyrimcs Now"
 
-# Start
-S_B_1 : "🗒 Commands"
-S_B_2 : "🔧 Semttings"
-S_B_3 : "📨 Sumpport"
-S_B_4 : "📨 Chamnnel"
-S_B_5 : "✚ Add me to youmr Groump"
-S_B_6 : "💡 Git Repo"
-S_B_7 : "👤 Bot Owner"
-S_B_8 : "🔎 How to Use? Commands Menu."
-
-#Help 
-H_B_1 : "Amdmin Commands"
-H_B_2 : "Plamy Commands"
-H_B_3 : "Bomt Commands"
-H_B_4 : "Emxtra Commands"
-H_B_5 : "Clomse Menu"
-H_B_6 : "Sumdo Umser Commands"
 
 #PlayMode
 PM_B_1 : "DimrectPlay"
@@ -282,7 +252,7 @@ ST_B_2 : "🎥 Vid Quamlity"
 ST_B_3 : "🎩 Aumth Umsers"
 ST_B_4 : "📱 Dashboard"
 ST_B_5 : "▶️ Plamy Momde"
-ST_B_6 : "🏳️‍🌈 Lamguage"
+ST_B_6 : " Lamguage"
 ST_B_7 : "🔄 Cleam Momde"
 ST_B_8 : "{0} Low Quamlity Aumdio"
 ST_B_9 : "{0} Memdium Quamlity Aumdio"
